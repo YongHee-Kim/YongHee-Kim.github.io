@@ -1,2 +1,0 @@
-# masterfarseer
-Static Blog
