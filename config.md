@@ -4,10 +4,10 @@ website.
 The website_* must be defined for the RSS to work
 -->
 @def website_title = "Masterfarseer"
-@def website_descr = "Static Blog"
-@def website_url   = "https://yonghee-kim.github.io/"
+@def website_descr = "개인 홈페이지"
+@def website_url   = "https://YongHee-Kim.github.io/"
 
-@def author = "YongHee Kim"
+@def author = "Septimia Zenobia"
 
 @def mintoclevel = 2
 
